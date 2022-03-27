@@ -11,7 +11,6 @@
   inputs.src-benchy-master.ref   = "refs/heads/master";
   inputs.src-benchy-master.owner = "treeform";
   inputs.src-benchy-master.repo  = "benchy";
-  inputs.src-benchy-master.dir   = "";
   inputs.src-benchy-master.type  = "github";
   
   outputs = { self, nixpkgs, flakeNimbleLib, ...}@deps:
