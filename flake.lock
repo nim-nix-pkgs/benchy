@@ -12,11 +12,11 @@
       },
       "locked": {
         "dir": "master",
-        "lastModified": 1653701733,
-        "narHash": "sha256-sLlekqrohOKrmtNlSouplWUSllPDqU9PVDurwkN+0ws=",
+        "lastModified": 1656297598,
+        "narHash": "sha256-KjezjRzWa+vl1ScT06xtCAO4iPRobRqEJj66sf2C3K4=",
         "owner": "nim-nix-pkgs",
         "repo": "benchy",
-        "rev": "1ccb36c4fa3d60916c19f6b86a421c310103927c",
+        "rev": "a54c0de00d70046a96c553a92644ca5ad2fcb2ad",
         "type": "github"
       },
       "original": {
@@ -70,11 +70,11 @@
     "src-benchy-master": {
       "flake": false,
       "locked": {
-        "lastModified": 1639696015,
-        "narHash": "sha256-390W9vEAsfDs2/H9sLLkZDEfpF4YjuMivsgc81chEDE=",
+        "lastModified": 1655754942,
+        "narHash": "sha256-qsPFw57RMjwvsgYS5khk1zkbfFvl/Ouk1zOLPYYbQX8=",
         "owner": "treeform",
         "repo": "benchy",
-        "rev": "cc7691ae6dfcd7e9e2d8b53bfa9f9742b764b78a",
+        "rev": "848dc851559d48b60bd368fddb2761414daa8c3c",
         "type": "github"
       },
       "original": {
